@@ -1,0 +1,8 @@
+Exercise 1 | Home Library  - YES
+Exercise 2 | Health Center  - MAYBE
+Exercise 3 | Auction House  - NO
+Exercise 4 | Transport Company - YES
+Exercise 5 | Social Network  - MAYBE
+Exercise 6 | Airline company  -NO
+
+
